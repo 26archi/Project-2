@@ -1,2 +1,6 @@
-2+2=22(false statement)
+<<<<<<< HEAD
+:2+2=22(false statement)
+=======
+2+2=4 (true statement)
+>>>>>>> dev-branch
 
